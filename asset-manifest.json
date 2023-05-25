@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/GoldPrice/static/css/main.b4d64969.css",
-    "main.js": "/GoldPrice/static/js/main.00d95559.js",
+    "main.js": "/GoldPrice/static/js/main.291af7b0.js",
     "static/js/787.28cb0dcd.chunk.js": "/GoldPrice/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/GoldPrice/index.html",
     "main.b4d64969.css.map": "/GoldPrice/static/css/main.b4d64969.css.map",
-    "main.00d95559.js.map": "/GoldPrice/static/js/main.00d95559.js.map",
+    "main.291af7b0.js.map": "/GoldPrice/static/js/main.291af7b0.js.map",
     "787.28cb0dcd.chunk.js.map": "/GoldPrice/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4d64969.css",
-    "static/js/main.00d95559.js"
+    "static/js/main.291af7b0.js"
   ]
 }
