@@ -239,7 +239,7 @@ const Header = ({ currency, handleCurrencyChange }) => {
       }}>
           <img style={{
             margin:'auto'
-          }} src='/images/logo.png' />
+          }} src='/GoldPrice/images/logo.png' />
           <Button variant="contained" sx={styles.loginMob}style={{ backgroundColor: '#E9B109', color: "#142241",marginLeft:'auto' }}>
           Login
         </Button>
