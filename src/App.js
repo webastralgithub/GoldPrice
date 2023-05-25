@@ -30,11 +30,11 @@ import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 const drawerWidth = 240;
 
 const currencies = [
-  { code: 'USD', label: 'USD',icon:'/images/usa.png' },
-  { code: 'EUR', label: 'EUR',icon:'/images/eu.png' },
-  { code: 'GBP', label: 'GBP',icon:'/images/uk.png'},
-  { code: 'AUD', label: 'AUD',icon:'/images/australia.png'},
-  { code: 'CAD', label: 'CAD',icon:'/images/canada.png'},
+  { code: 'USD', label: 'USD',icon:'/GoldPrice/images/usa.png' },
+  { code: 'EUR', label: 'EUR',icon:'/GoldPrice/images/eu.png' },
+  { code: 'GBP', label: 'GBP',icon:'/GoldPrice/images/uk.png'},
+  { code: 'AUD', label: 'AUD',icon:'/GoldPrice/images/australia.png'},
+  { code: 'CAD', label: 'CAD',icon:'/GoldPrice/images/canada.png'},
 ];
 
 const theme = createTheme({
@@ -232,7 +232,7 @@ const Header = ({ currency, handleCurrencyChange }) => {
             </IconButton>
           )}
          { !isMobile?<Typography variant="h6" noWrap sx={{ fontSize: '0.25rem', width:"10%"}}>
-           <img src='/images/logo.png' />
+           <img src='/GoldPrice/images/logo.png' />
           </Typography>:
           <Typography variant="h6" noWrap sx={{ fontSize: '0.25rem',textAlign: 'center', display: "flex",width: '75%',
          marginLeft: 'auto'
